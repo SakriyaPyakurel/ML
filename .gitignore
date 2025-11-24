@@ -1,3 +1,5 @@
 mini_project/housing.csv
 mini_project/final_model.pkl
 supervised_learning/catboost_info/
+automated_ml/pycaret_env/ 
+automated_ml/logs.log
