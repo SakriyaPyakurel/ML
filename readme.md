@@ -6,10 +6,11 @@ A machine learning approach organized into multiple learning paradigms and prepr
 
 ```
 .
-├── mini_project/
-├── preprocessing/
-├── supervised_learning/
-└── unsupervised_learning/
+├── 📁 mini_project/
+├── 🗂️ preprocessing/
+├── 🤖 supervised_learning/
+├── 📊 unsupervised_learning/
+└── ⚡ automated_ml/
 ```
 
 ## Contents
@@ -18,5 +19,6 @@ A machine learning approach organized into multiple learning paradigms and prepr
 - **preprocessing/** - Data cleaning and feature engineering utilities
 - **supervised_learning/** - Supervised learning models and training pipelines
 - **unsupervised_learning/** - Clustering
+- **automated_ml/** - pycaret(classification tasks only)
 
 
